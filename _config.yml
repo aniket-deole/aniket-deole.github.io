@@ -8,7 +8,7 @@ title:               Syncopated Pandemonium
 tagline:             'Order & Chaos'
 description:         'Hello There!'
 url:                 http://www.aniket.ninja
-baseurl:             ''
+baseurl:             'http://www.aniket.ninja'
 paginate:            5
 
 # About/contact
