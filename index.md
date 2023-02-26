@@ -5,3 +5,7 @@
 layout: splash
 author_profile: false
 ---
+<figure>
+	<a href="{{ site.baseurl }}{% link _portfolio/new-england.md %}"><img src="/assets/images/nh/sunrise-1.jpg"></a>
+	<figcaption>New England</figcaption>
+</figure>

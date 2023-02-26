@@ -5,7 +5,7 @@ classes:
   - wide
 tags: 
   - images
-  - new_hampshire
+  - new_england
 ---
 
 #### One Up
