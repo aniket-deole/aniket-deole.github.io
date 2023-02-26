@@ -55,15 +55,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Aniket Deole"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "AD"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aniket-deole"
-
 defaults:
   # _posts
   - scope:
