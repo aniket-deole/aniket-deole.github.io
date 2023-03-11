@@ -1,6 +1,6 @@
 ---
 title: "New England - October 2023"
-excerpt: "Visited the amazing White Mountains during Oct 2023"
+excerpt: "Visited the amazing White Mountains during Oct 20223"
 classes:
   - wide
 tags: 
