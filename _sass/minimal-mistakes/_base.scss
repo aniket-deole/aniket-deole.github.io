@@ -5,7 +5,7 @@
 @font-face {
     font-family: Oswald;
     src: url("../../assets/fonts/Oswald-Regular.ttf") format('truetype');
-    font-weight: regular;
+    font-weight: 200;
     font-style: normal;
 }
 
@@ -38,7 +38,7 @@ h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 200;
 }
 
 h1 {
