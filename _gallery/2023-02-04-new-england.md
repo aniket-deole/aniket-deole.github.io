@@ -1,6 +1,6 @@
 ---
-title: "New England Galleries - October 2023"
-excerpt: "Visited the amazing White Mountains during Oct 2023"
+title: "New England Galleries - October 2022"
+excerpt: "Visited the amazing White Mountains during Oct 2022"
 classes:
   - wide
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: "New England - October 2023"
+title: "New England - October 2022"
 excerpt: "Visited the amazing White Mountains during Oct 2022"
 classes:
   - wide
